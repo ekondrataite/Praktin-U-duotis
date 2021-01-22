@@ -1,2 +1,2 @@
-# Praktin-U-duotis
+# PraktinėUžduotis
 Egzamino praktinė dalis
